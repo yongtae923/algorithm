@@ -1,4 +1,3 @@
-C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.csprojAssemblyReference.cache
 C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.AssemblyInfoInputs.cache
 C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.AssemblyInfo.cs
 C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.csproj.CoreCompileInputs.cache
@@ -11,3 +10,4 @@ C:\Backup\github repository\repo\bin\Debug\netcoreapp3.1\repo.pdb
 C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.dll
 C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.pdb
 C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.genruntimeconfig.cache
+C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.csproj.AssemblyReference.cache
