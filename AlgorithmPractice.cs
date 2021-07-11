@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Numerics;
 namespace repo
 {
     class Program
@@ -7,8 +7,8 @@ namespace repo
         static void Main(string[] args)
         {
             string[] s = Console.ReadLine().Split(' ');
-            Console.WriteLine(int.Parse(s[0]) / int.Parse(s[1]));
-            Console.WriteLine(int.Parse(s[0]) % int.Parse(s[1]));
+            Console.WriteLine(BigInteger.Parse(s[0]) / BigInteger.Parse(s[1]));
+            Console.WriteLine(BigInteger.Parse(s[0]) % BigInteger.Parse(s[1]));
         }
     }
 }
