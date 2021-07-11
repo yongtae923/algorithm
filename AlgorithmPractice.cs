@@ -6,9 +6,14 @@ namespace repo
     {
         static void Main(string[] args)
         {
-            string s = Console.ReadLine();
-            int integer = Convert.ToInt32(s, 16);
-            Console.WriteLine(integer);
+            string[] s = Console.ReadLine().Split(' ');
+            Double sum = 0;
+            foreach (string i in s)
+            {
+                Double t = Double.Parse(i);
+                sum += Math.Pow(t, 2.0);
+            }
+            Console.WriteLine(sum%10);
         }
     }
 }
