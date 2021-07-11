@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Numerics;
 namespace repo
 {
@@ -13,7 +13,6 @@ namespace repo
                 Double t = Double.Parse(i);
                 sum += Math.Pow(t, 2.0);
             }
-            Console.WriteLine(sum%10);
         }
     }
 }
