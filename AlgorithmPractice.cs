@@ -6,9 +6,9 @@ namespace repo
     {
         static void Main(string[] args)
         {
-            string[] s = Console.ReadLine().Split(' ');
-            Console.WriteLine(BigInteger.Parse(s[0]) / BigInteger.Parse(s[1]));
-            Console.WriteLine(BigInteger.Parse(s[0]) % BigInteger.Parse(s[1]));
+            string s = Console.ReadLine();
+            int integer = Convert.ToInt32(s, 16);
+            Console.WriteLine(integer);
         }
     }
 }
