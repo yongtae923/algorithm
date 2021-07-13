@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Numerics;
 namespace repo
 {
@@ -6,13 +6,8 @@ namespace repo
     {
         static void Main(string[] args)
         {
-            string[] s = Console.ReadLine().Split(' ');
-            Double sum = 0;
-            foreach (string i in s)
-            {
-                Double t = Double.Parse(i);
-                sum += Math.Pow(t, 2.0);
-            }
+            string[] s = Console.ReadLine().Split();
+            Console.WriteLine(int.Parse(s[0])*(int.Parse(s[1])-1)+1);
         }
     }
 }
