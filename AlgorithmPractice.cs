@@ -5,13 +5,28 @@ namespace repo
     {
         static void Main(string[] args)
         {
-            string[] s = Console.ReadLine().Split(' ');
-            string[] t = Console.ReadLine().Split(' ');
-            int num = int.Parse(s[0]) * int.Parse(s[1]);
+            int num = int.Parse(Console.ReadLine());    // first input is repeatition number
 
-            foreach (string i in t)
+            for (int j = 0; j < num; j++)
             {
-                Console.Write($"{int.Parse(i)-num} ");
+                string s = Console.ReadLine();          // input is OX quiz result
+                char[] c = s.ToCharArray(0, s.Length);  // split input to char array
+                int score = 0, sum = 0;
+
+                foreach (char i in c)
+                {
+                    if (i == 'O')                       // if O then get score
+                    {
+                        score += 1;
+                        sum += score;
+                    }
+                    else                                // if X then no score
+                    {
+                        score = 0;
+                    }
+                }
+
+                Console.WriteLine(sum);
             }
         }
     }
