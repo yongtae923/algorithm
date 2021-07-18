@@ -1,33 +1,22 @@
 ﻿using System;
+using System.Linq;
 namespace repo
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int num = int.Parse(Console.ReadLine());    // first input is repeatition number
-
-            for (int j = 0; j < num; j++)
+            Console.ReadLine();
+            double[] s = Array.ConvertAll(Console.ReadLine().Split(' '), double.Parse);
+            double max = s.Max();
+            double sum = 0;
+            
+            foreach (double i in s)
             {
-                string s = Console.ReadLine();          // input is OX quiz result
-                char[] c = s.ToCharArray(0, s.Length);  // split input to char array
-                int score = 0, sum = 0;
-
-                foreach (char i in c)
-                {
-                    if (i == 'O')                       // if O then get score
-                    {
-                        score += 1;
-                        sum += score;
-                    }
-                    else                                // if X then no score
-                    {
-                        score = 0;
-                    }
-                }
-
-                Console.WriteLine(sum);
+                sum += i / max * 100;
             }
+
+            Console.WriteLine(sum);
         }
     }
 }
