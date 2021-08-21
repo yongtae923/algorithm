@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-
+using System;
 namespace algorithm
 {
-    class Program
+    class Boj10871
     {
-        static void Main(string[] args)
+        static void Solution()
         {
             int[] nx = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
             int[] a = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
