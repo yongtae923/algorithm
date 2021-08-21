@@ -1,11 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-
+using System;
 namespace algorithm
 {
-    class Program
+    class Boj10809
     {
-        static void Main(string[] args)
+        static void Solution()
         {
             char[] s = Console.ReadLine().ToCharArray();
             char[] alphabet = "abcdefghijklmnopqrstuvwxyz".ToCharArray();

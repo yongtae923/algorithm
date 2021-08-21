@@ -1,6 +1,9 @@
 # Default
+.vscode
 .vscode/
+bin
 bin/
+obj
 obj/
 algorithm.csproj
 README.md
