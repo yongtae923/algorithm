@@ -1,9 +1,10 @@
-﻿using System;
+using System;
+
 namespace algorithm
 {
-    class Program
+    class Boj2908
     {
-        static void Main(string[] args)
+        static void Solution()
         {
             string[] s = Console.ReadLine().Split();
 

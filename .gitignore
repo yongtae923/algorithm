@@ -1,10 +1,10 @@
 # Default
-# .vscode/
-# bin/
-# obj/
-# algorithm.csproj
-# README.md
+.vscode/
+bin/
+obj/
+algorithm.csproj
+README.md
 
 # Other Boj problems
-# Boj.cs
-# Boj2577.cs
+Boj.cs
+Boj2577.cs
