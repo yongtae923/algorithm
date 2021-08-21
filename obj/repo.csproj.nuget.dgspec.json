@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Backup\\github repository\\repo\\repo.csproj": {}
+    "C:\\Code\\algorithm\\repo.csproj": {}
   },
   "projects": {
-    "C:\\Backup\\github repository\\repo\\repo.csproj": {
+    "C:\\Code\\algorithm\\repo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Backup\\github repository\\repo\\repo.csproj",
+        "projectUniqueName": "C:\\Code\\algorithm\\repo.csproj",
         "projectName": "repo",
-        "projectPath": "C:\\Backup\\github repository\\repo\\repo.csproj",
+        "projectPath": "C:\\Code\\algorithm\\repo.csproj",
         "packagesPath": "C:\\Users\\82105\\.nuget\\packages\\",
-        "outputPath": "C:\\Backup\\github repository\\repo\\obj\\",
+        "outputPath": "C:\\Code\\algorithm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\82105\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

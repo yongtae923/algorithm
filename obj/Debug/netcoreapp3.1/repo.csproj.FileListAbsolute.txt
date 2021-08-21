@@ -11,3 +11,16 @@ C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.dll
 C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.pdb
 C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.genruntimeconfig.cache
 C:\Backup\github repository\repo\obj\Debug\netcoreapp3.1\repo.csproj.AssemblyReference.cache
+C:\Code\algorithm\bin\Debug\netcoreapp3.1\repo.exe
+C:\Code\algorithm\bin\Debug\netcoreapp3.1\repo.deps.json
+C:\Code\algorithm\bin\Debug\netcoreapp3.1\repo.runtimeconfig.json
+C:\Code\algorithm\bin\Debug\netcoreapp3.1\repo.runtimeconfig.dev.json
+C:\Code\algorithm\bin\Debug\netcoreapp3.1\repo.dll
+C:\Code\algorithm\bin\Debug\netcoreapp3.1\repo.pdb
+C:\Code\algorithm\obj\Debug\netcoreapp3.1\repo.csproj.AssemblyReference.cache
+C:\Code\algorithm\obj\Debug\netcoreapp3.1\repo.AssemblyInfoInputs.cache
+C:\Code\algorithm\obj\Debug\netcoreapp3.1\repo.AssemblyInfo.cs
+C:\Code\algorithm\obj\Debug\netcoreapp3.1\repo.csproj.CoreCompileInputs.cache
+C:\Code\algorithm\obj\Debug\netcoreapp3.1\repo.dll
+C:\Code\algorithm\obj\Debug\netcoreapp3.1\repo.pdb
+C:\Code\algorithm\obj\Debug\netcoreapp3.1\repo.genruntimeconfig.cache
