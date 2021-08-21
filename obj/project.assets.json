@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\algorithm\\repo.csproj",
-      "projectName": "repo",
-      "projectPath": "C:\\Code\\algorithm\\repo.csproj",
+      "projectUniqueName": "C:\\Code\\algorithm\\algorithm.csproj",
+      "projectName": "algorithm",
+      "projectPath": "C:\\Code\\algorithm\\algorithm.csproj",
       "packagesPath": "C:\\Users\\82105\\.nuget\\packages\\",
       "outputPath": "C:\\Code\\algorithm\\obj\\",
       "projectStyle": "PackageReference",
