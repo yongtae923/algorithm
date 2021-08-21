@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 namespace algorithm
 {
-    class Program
+    class Boj1259
     {
-        static void Main(string[] args)
+        static void Solution()
         {
             while (true)
             {
