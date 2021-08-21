@@ -1,2 +1,2 @@
-# repo
-저는 백준 단계별로 풀어보기 문제들을 C#으로 풀고 이 레포지토리에 저장합니다.
+# algorithm
+I solve BOJ problems
