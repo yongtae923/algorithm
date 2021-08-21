@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 namespace algorithm
 {
-    class Program
+    class Boj1085
     {
-        static void Main(string[] args)
+        static void Solution()
         {
             int[] num = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
 
