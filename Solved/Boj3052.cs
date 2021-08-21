@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace algorithm
 {
-    class Program
+    class Boj3052
     {
-        static void Main(string[] args)
+        static void Solution()
         {
             SortedSet<int> hset = new SortedSet<int>();
 
