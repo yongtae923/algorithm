@@ -2,8 +2,8 @@
 .vscode/
 bin/
 obj/
-.csproj
-.md
+algorithm.csproj
+README.md
 
 # Other Boj problems
 Boj2577.cs
