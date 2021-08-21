@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-
 namespace algorithm
 {
     class Boj2577

@@ -1,2 +1,3 @@
 # algorithm
-I solve BOJ problems
+I solve BOJ problems.
+My BOJ id is "yoet".

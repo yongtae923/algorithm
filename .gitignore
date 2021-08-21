@@ -1,0 +1,9 @@
+# Default
+.vscode/
+bin/
+obj/
+.csproj
+.md
+
+# Other Boj problems
+Boj2577.cs
