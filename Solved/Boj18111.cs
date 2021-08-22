@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 namespace algorithm
 {
-    class Program
+    class Boj18111
     {
-        static void Main(string[] args)
+        static void Solution()
         {
             int[] nmb = Array.ConvertAll(Console.ReadLine().Split(), int.Parse);
             int[,] ground =  new int[nmb[0], nmb[1]];
@@ -47,7 +47,7 @@ namespace algorithm
                     floor = i;
                 }
             }
-
+            
             Console.WriteLine($"{minTime} {floor}");
         }
     }
