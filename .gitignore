@@ -7,3 +7,6 @@ obj
 obj/
 algorithm.csproj
 README.md
+
+.fake
+.ionide

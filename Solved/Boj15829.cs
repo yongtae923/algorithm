@@ -1,9 +1,9 @@
-﻿using System;
+using System;
 namespace algorithm
 {
-    class Program
+    class Boj15829
     {
-        static void Main(string[] args)
+        static void Solution()
         {
             int num = int.Parse(Console.ReadLine());
             char[] str = Console.ReadLine().ToCharArray(0, num);
