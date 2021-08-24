@@ -1,11 +1,11 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 namespace algorithm
 {
-    class Program
+    class Boj4949
     {
-        static void Main(string[] args)
+        static void Solution()
         {
             Stack<int> stack = new Stack<int>();
 
